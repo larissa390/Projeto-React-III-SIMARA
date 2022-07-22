@@ -1,0 +1,14 @@
+.footer {
+    background-color: #686aac;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+
+.texto-footer{
+    text-align: center;
+    color: white;
+
+}

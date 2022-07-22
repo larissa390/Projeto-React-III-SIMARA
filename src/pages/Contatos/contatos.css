@@ -1,0 +1,28 @@
+nome-rede-social {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-redes-sociais {
+    background-color: #686AAC;
+    width: 150px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 40px 15px 30px;
+}
+
+.contatos{
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 80%;
+    align-items: center;
+}
